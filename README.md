@@ -39,7 +39,7 @@ venv\Scripts\activate
 pip install flask flask-sqlalchemy
 ```
 
----
+--- 
 
 ### Step 4: Project Structure
 
